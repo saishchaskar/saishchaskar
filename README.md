@@ -8,7 +8,7 @@
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=saishchaskar.saishchaskar)
 
 
-I am a Pre Final Year student at [DY Patil University](https://www.dypatil.edu/schools/ramrao-adik-institute-of-technology), Navi Mumbai, India and Currently doing B. Tech in Computer Science Engineering (Cloud Computing). 
+I am a Pre Final Year student at [DY Patil University](https://www.dypatil.edu/schools/ramrao-adik-institute-of-technology), Navi Mumbai, India and Pursuing B. Tech in Computer Science Engineering (Cloud Computing). 
 
 
 **About Me:**
