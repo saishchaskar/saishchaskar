@@ -13,7 +13,7 @@ I am a Pre Final Year student at [DY Patil University](https://www.dypatil.edu/s
 
 **About Me:**
 
-- 👨🏻‍💻 I’m interested in CLOUD COMPUTING,ARTIFICIAL INTELLIGENCE,DATA ANLAYSING,CYBER SECURITY;
+- 👨🏻‍💻 I’m interested in Cloud Computing,Artificial Intelligence,Cyber Security;
 - 👀 I’m looking to collaborate on various Development Projects;
 - 👨🏻‍💻 I’m currently working on Personal and College Projects;
 - 👨 I am Complete Techie Person always exploring the Technology and learning it;
