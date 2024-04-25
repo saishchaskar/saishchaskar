@@ -19,7 +19,7 @@ I am a Pre Final Year student at [DY Patil University](https://www.dypatil.edu/s
 - 👨 I am Complete Techie Person always exploring the Technology and learning it;
 - 💞️ I love to Travel New Places and Try out the New Food;
 - 💬 Ask me about anything, I am ready to help;
-- 📫 To contact or Know more about me and my Projects, Visit [My Website])
+
 
 
 </br>
