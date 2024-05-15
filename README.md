@@ -46,8 +46,7 @@
 
 📈 **Here are my GitHub Stats:**
 <p align="center">
-<a ![Commits](https://github-readme-streak-stats.herokuapp.com/?user=saishchaskar&theme=material-palenight)
-</a>
+ ![Commits](https://github-readme-streak-stats.herokuapp.com/?user=saishchaskar&theme=material-palenight)
 </p>
 
 
