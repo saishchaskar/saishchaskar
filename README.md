@@ -45,10 +45,13 @@
 
 
 📈 **Here are my GitHub Stats:**
-
-[![My Stats](https://github-readme-stats.vercel.app/api?username=saishchaskar&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
 
 ![Commits](https://github-readme-streak-stats.herokuapp.com/?user=saishchaskar&theme=material-palenight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saishchaskar&show_icons=true&theme=material-palenight&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
+ 
+<div align="center">
 
