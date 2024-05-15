@@ -1,4 +1,5 @@
 <div align="center">
+  
 - ### Hi there, I'm Saish Chaskar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saish-chaskar-74b705237/)
@@ -19,7 +20,7 @@
 <br />
 
 </div>
----
+
 <div align="center">
 
 ### :hammer_and_wrench: Languages and Tools :
