@@ -10,7 +10,9 @@
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=saishchaskar.saishchaskar)
 
 **About Me:**
-
+</div>
+<div align="center">
+  
 - 👨🏻‍💻 I’m interested in Cloud Computing,Artificial Intelligence,Cyber Security;
 - 👀 I’m looking to collaborate on various Development Projects;
 - 👨🏻‍💻 I’m currently working on Personal and College Projects;
@@ -19,9 +21,7 @@
 - 💬 Ask me about anything, I am ready to help;
 <br />
 
-</div>
 
-<div align="center">
 
 ### :hammer_and_wrench: Languages and Tools :
 
