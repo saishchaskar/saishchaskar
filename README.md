@@ -12,12 +12,12 @@
 
 ## ⚡ About Me:
 Talk to me about:  
--👨🏻‍💻 I’m interested in Cloud Computing,Artificial Intelligence,Cyber Security; \
--👀 I’m looking to collaborate on various Development Projects; \
--👨🏻‍💻 I’m currently working on Personal and College Projects; \
--👨 I am Complete Techie Person always exploring the Technology and learning it; \
--💞️ I love to Travel New Places and Try out the New Food; \
--💬 Ask me about anything, I am ready to help; \
+-👨🏻‍💻 I’m interested in Cloud Computing, Artificial Intelligence, Cyber Security. \
+-👀 I’m looking to collaborate on various Development Projects. \
+-👨🏻‍💻 I’m currently working on Personal and College Projects. \
+-👨 I am Complete Techie Person always exploring the Technology and learning it. \
+-💞️ I love to Travel New Places and Try out the New Food. \
+-💬 Ask me about anything, I am ready to help. \
 <br />
 
 <div align="center">
