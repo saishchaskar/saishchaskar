@@ -17,7 +17,7 @@
 
 ## ⚡ About Me:
 Talk to me about:  
-- 👨🏻‍💻 I’m interested in Cloud Computing, Artificial Intelligence, Cyber Security. 
+- 👨🏻‍💻 I’m interested in Cloud Computing, Artificial Intelligence and Cyber Security. 
 - 👀 I’m looking to collaborate on various Development Projects. 
 - 👨🏻‍💻 I’m currently working on Personal and College Projects. 
 - 👨 I'm always exploring the Technology and learning it. 
