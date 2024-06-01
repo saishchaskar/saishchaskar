@@ -58,7 +58,7 @@ Talk to me about:
 
  ![saishchaskar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saishchaskar&theme=default&hide_border=false)
 ![saishchaskar's Stats](https://github-readme-stats.vercel.app/api?username=saishchaskar&theme=default&show_icons=true&hide_border=false&count_private=true)
-![saishchaskar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saishchaskar&theme=default&show_icons=true&hide_border=true&layout=compact)
+![saishchaskar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saishchaskar&theme=default&show_icons=true&hide_border=false&layout=compact)
 
 </div>
 
