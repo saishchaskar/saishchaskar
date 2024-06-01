@@ -56,11 +56,10 @@ Talk to me about:
   
 📈 **Here are my GitHub Stats:**
 
- ![Commits](https://github-readme-streak-stats.herokuapp.com/?user=saishchaskar&theme=material-palenight)
+ ![saishchaskar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saishchaskar&theme=default&hide_border=true)
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saishchaskar&show_icons=true&theme=material-palenight&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![saishchaskar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saishchaskar&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 </div>
 
