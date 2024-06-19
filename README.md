@@ -6,6 +6,9 @@
     
  ### Hi there, I'm Saish Chaskar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+ ![Associate_Linkedin@2x](https://github.com/saishchaskar/saishchaskar/assets/102912746/631c354d-7e80-4d72-87a5-4bf0d4dc98ea)
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saish-chaskar-74b705237/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/SaishChaskar)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/saishchaskar/?igshid=OGQ5ZDc2ODk2ZA%3D%3D)
@@ -13,18 +16,16 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=saishchaskar.saishchaskar)
 
-</div>  
+
 
 ## ⚡ About Me:
-Talk to me about:  
-- 👨🏻‍💻 I’m interested in Cloud Computing, Artificial Intelligence and Cyber Security. 
-- 👀 I’m looking to collaborate on various Development Projects. 
-- 👨🏻‍💻 I’m currently working on Personal and College Projects. 
-- 👨 I'm always exploring the Technology and learning it. 
-- 💞️ I love to Travel New Places and Try out the New Food. 
-- 💬 Ask me about anything, I am ready to help. 
+ 
+👨🏻‍💻 Cloud, Gen-AI, CyberSecurity and Networking I am intrested.
+👨 Exploring new technologies and learning it. 
+💞️ I love to Travel New Places and Try out the New Food. 
+ 💬 Ask me about anything, I am ready to help. 
 <br />
-
+</div>  
 <div align="center">
 
 ### :hammer_and_wrench: Languages and Tools :
