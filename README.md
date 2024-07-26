@@ -19,11 +19,11 @@
 
 
 ## ⚡ About Me:
- 
-👨🏻‍💻 Cloud, Gen-AI, CyberSecurity and Networking I am intrested.
-👨 Exploring new technologies and learning it. 
-💞️ I love to Travel New Places and Try out the New Food. 
- 💬 Ask me about anything, I am ready to help. 
+Final-year B.Tech Computer Engineering student, with a strong foundation in Java and Python programming.
+Passionate about cloud computing, demonstrating proficiency in cloud infrastructure, services, and solutions.
+Committed to lifelong learning, staying updated with emerging technologies, and driven to contribute to a better,
+safer, and more connected digital future 
+
 <br />
 </div>  
 <div align="center">
