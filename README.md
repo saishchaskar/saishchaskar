@@ -18,11 +18,20 @@
 
 
 
-## ⚡ About Me:
-Software Engineer, with a strong foundation in Java and Python programming.
-Passionate about cloud computing, demonstrating proficiency in cloud infrastructure, services, and solutions.
-Committed to lifelong learning, staying updated with emerging technologies, and driven to contribute to a better,
-safer, and more connected digital future..!
+---
+
+## ⚡ About Me
+
+I’m a **Software Engineer** specializing in **high-throughput backend systems**, **cloud-native architectures**, and **real-time event processing**.
+
+- 🔹Strong foundation in **Java, Python, and JavaScript**
+- 🔹 Hands-on experience building **low-latency APIs (<100ms)** handling **30–40K+ events/day**
+- 🔹 Passionate about **Cloud, DevOps, RAG systems, and scalable infrastructure**
+- 🔹 Believe in **clean architecture, automation, and measurable impact**
+
+Currently working at **Unbox Robotics**, building software for large-scale warehouse automation and live sortation systems.
+
+---
 
 <br />
 </div>  
