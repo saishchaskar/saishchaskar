@@ -19,7 +19,7 @@
 
 
 ## ⚡ About Me:
-Final-year B.Tech Computer Engineering student, with a strong foundation in Java and Python programming.
+Software Engineer, with a strong foundation in Java and Python programming.
 Passionate about cloud computing, demonstrating proficiency in cloud infrastructure, services, and solutions.
 Committed to lifelong learning, staying updated with emerging technologies, and driven to contribute to a better,
 safer, and more connected digital future..!
