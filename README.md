@@ -1,76 +1,71 @@
-# Hey there :wave:
+<div align="center">
 
-
-
-  <div align="center">
-    
- ### Hi there, I'm Saish Chaskar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
- ![Associate_Linkedin@2x](https://github.com/saishchaskar/saishchaskar/assets/102912746/631c354d-7e80-4d72-87a5-4bf0d4dc98ea)
-
+# Hi there, I'm Saish Chaskar! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saish-chaskar-74b705237/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/SaishChaskar)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/saishchaskar/?igshid=OGQ5ZDc2ODk2ZA%3D%3D)
+![](https://visitor-badge.glitch.me/badge?page_id=saishchaskar.saishchaskar)
 
+### 🚀 Full-Stack SDE | GCP Certified Cloud Architect | System Design Enthusiast
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=saishchaskar.saishchaskar)
+*Building resilient, high-throughput systems for large-scale automation.*
 
-
+</div>
 
 ---
 
 ## ⚡ About Me
 
-I’m a **Software Engineer** specializing in **high-throughput backend systems**, **cloud-native architectures**, and **real-time event processing**.
+I’m a **Software Development Engineer** specializing in **cloud-native architectures**, **microservices**, and **real-time event processing**. I currently build software for large-scale warehouse automation and live sortation systems at **Unbox Robotics**.
 
-- 🔹Strong foundation in **Java, Python, and JavaScript**
-- 🔹 Hands-on experience building **low-latency APIs (<100ms)** handling **30–40K+ events/day**
-- 🔹 Passionate about **Cloud, DevOps, RAG systems, and scalable infrastructure**
-- 🔹 Believe in **clean architecture, automation, and measurable impact**
+I believe in clean architecture, measurable impact, and building systems that scale effortlessly. 
 
-Currently working at **Unbox Robotics**, building software for large-scale warehouse automation and live sortation systems.
+- 💻 **Engineering Impact:** Engineered **low-latency APIs (<100ms)** and reliable event-driven systems handling **30–40K+ events/day** heavily utilizing the **Java & Spring Boot** ecosystem.
+- ☁️ **Cloud & Infrastructure:** **GCP Professional Cloud Architect**. Passionate about scalable infrastructure, RAG systems, and automated deployments.
+- 📊 **Observability:** Strong advocate for system reliability, utilizing tools like **Grafana, Prometheus**, and OpenTelemetry for distributed tracing.
+- 🎯 **Current Focus:** Mastering advanced System Design, **Apache Kafka**, **Terraform (IaC)**, and continuous LeetCode problem-solving.
+- 🏗️ **Past Work:** Developed scalable end-to-end software solutions, including projects like **PetroConnect**.
+- 🤝 **Community & Tech:** Active participant in the developer ecosystem. You can often find me attending **GDG Pune, Cloud Native Pune, and JS Pune** meetups, or competing in events like **MumbaiHacks**.
 
 ---
 
-<br />
-</div>  
 <div align="center">
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Tech Stack & Tools
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP"  alt="GCP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-  
+**Languages & Frameworks**<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="Java" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" title="Spring Boot" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" title="React" width="40" height="40"/>&nbsp;
+
+**Cloud, DevOps & Architecture**<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" title="Terraform" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" title="Grafana" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" title="Prometheus" width="40" height="40"/>&nbsp;
+
+**Databases & Version Control**<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40"/>&nbsp;
+
 </div>
 
 ---
 
-
-
-</br>
-
 <div align="center">
-  
-📈 **Here are my GitHub Stats:**
 
- ![saishchaskar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saishchaskar&theme=default&hide_border=false)
- 
-![saishchaskar's Stats](https://github-readme-stats.vercel.app/api?username=saishchaskar&theme=default&show_icons=true&hide_border=false&count_private=true)
+### 📈 GitHub Analytics
 
-![saishchaskar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saishchaskar&theme=default&show_icons=true&hide_border=false&layout=compact)
+![saishchaskar's Streak](https://streak-stats.demolab.com/?user=saishchaskar&theme=transparent&hide_border=true&stroke=0000&background=00000000&ring=0e76a8&fire=0e76a8&currStreakLabel=0e76a8)
+
 
 </div>
-
