@@ -1,6 +1,6 @@
 # Hi, I'm Saish Chaskar 👋
 
-[LinkedIn](https://www.google.com/search?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsaish-chaskar%2F) [Twitter](https://www.google.com/search?q=https%3A%2F%2Ftwitter.com%2FSaishChaskar) [Instagram](https://www.google.com/search?q=https%3A%2F%2Fwww.instagram.com%2Fsaishchaskar%2F%3Figshid%3DOGQ5ZDc2ODk2ZA%253D%253D)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saish-chaskar/) [![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/SaishChaskar) [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/saishchaskar/?igshid=OGQ5ZDc2ODk2ZA%3D%3D)
 
 ### Full-Stack Software Engineer · GCP Certified Cloud Architect
 
@@ -18,7 +18,7 @@ Working close to production hardware has shaped how I write code: writing a feat
 - **Cloud & Infrastructure:** **GCP Professional Cloud Architect** focused on cloud-native architectures, automated CI/CD pipelines, and practical **RAG / MCP** workflows.
 - **Observability & Reliability:** Deploy and tune bare-metal monitoring stacks using **Grafana**, **Prometheus**, **Loki**, and **OpenTelemetry** to trace bottlenecks and prevent production incidents.
 - **Currently Exploring:** Distributed System Design, **Apache Kafka**, and **Terraform (IaC)**.
-- **Selected Builds:** End-to-end systems including **AgroConnect PWA**, **ResumeMetrics**, and **PetroConnect**.
+- **Selected Builds:** End-to-end systems including **AgroConnect**, **ResumeMetrics**, and **PetroConnect**.
 - **Developer Community:** Regular attendee and builder at **GDG Pune**, **Cloud Native Pune**, and **JS Pune** meetups, and hackathons like **MumbaiHacks**.
 
 ---
@@ -63,15 +63,39 @@ flowchart LR
     H --> I
 ```
 
+### 4. Async Resume Scoring & ATS Intake Pipeline (ResumeMetrics)
+
+```mermaid
+flowchart LR
+    A[React Client / ATS Portal<br/>Firebase Hosting · Bearer API] -->|Resumable Upload up to 1 GiB ZIP| B[Private GCS Bucket]
+    B --> C[Cloud Run Job<br/>ZIP Validation & Fan-Out]
+    C --> D[Cloud Tasks Queue<br/>OIDC-Verified Workers]
+    D --> E[Flask API on Cloud Run<br/>Sentence Transformers 75% + Term Match 25%]
+    E --> F[(Firestore<br/>Ranked Scores & Evidence Excerpts)]
+    F --> G[Live Polling UI & CSV/Excel Export]
+```
+
+### 5. Shift Accounting, Carry-Forward & Analytics Flow (PetroConnect)
+
+```mermaid
+flowchart LR
+    A[React + TypeScript Dashboard<br/>Ant Design · Debounced Auto-Save] -->|BCrypt Session & REST| B[Spring Boot 3 API<br/>DSR · Station Config · Analytics]
+    B -->|Flyway Migrations| C[(PostgreSQL JSONB<br/>Flexible DU/Nozzle & DSR Payloads)]
+    C -->|Auto Carry-Forward| D[Next Shift Opening Readings<br/>& Completed-Shift Locking]
+    B --> E[Monthly Consolidated PDF<br/>& Recharts Fuel-Mix Analytics]
+```
+
 ---
 
 ## Project Highlights
 
 | Project | Highlights & Architecture | Core Stack | Repository |
 | :--- | :--- | :--- | :--- |
-| **AgroConnect PWA** | Offline-first AgriTech platform for **450+ Indian crop diseases & pests** combining on-device **TFLite (<300ms)** inference with a **guardrailed RAG** pipeline (similarity ≥ 0.7 + KVK fallback) and **22 Indic languages**. | Angular · Java 21 · Spring Boot · TFLite · Gemini 2.0 Flash · ChromaDB · Redis · IndicTrans2 | [saishchaskar/agroconnect-pwa](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2Fsaishchaskar%2Fagroconnect-pwa) |
-| **AgroConnect (Android)** | Earlier native Android implementation delivering **data.gov.in (OGD)** market prices, weather updates, and Firebase authentication. | Java · Android Studio (MVVM) · Firebase | [saishchaskar/Shetkari](https://github.com/saishchaskar/Shetkari) |
-| **ResumeMetrics** | End-to-end system build. *[Add 1–2 line summary of workflow & key metrics]* | *[Add stack]* | [saishchaskar/resume-metrics](https://github.com/saishchaskar/resume-metrics) |
-| **PetroConnect** | End-to-end system build. *[Add 1–2 line summary of workflow & key metrics]* | *[Add stack]* | *[Add repo link]* |
+| **AgroConnect PWA** | Offline-first AgriTech platform for **450+ Indian crop diseases & pests** combining on-device **TFLite (<300ms)** inference with a **guardrailed RAG** pipeline (similarity ≥ 0.70 + KVK fallback) and **22 Indic languages**. | Angular 18 · Java 21 · Spring Boot · TFLite · Gemini 2.0 Flash · ChromaDB · Redis · IndicTrans2 | [agroconnect-pwa](https://github.com/saishchaskar/agroconnect-pwa) · [AgroConnect-dev](https://github.com/saishchaskar/AgroConnect-dev) |
+| **ResumeMetrics** | Cloud-native resume screening workspace & ATS integration API supporting **1 GiB ZIP** direct-to-GCS uploads, **Cloud Run Job** fan-out, **Cloud Tasks** async scoring (**75% semantic + 25% keyword**), and CSV/Excel exports. | React · Tailwind · Flask · Sentence Transformers · Cloud Run · Cloud Tasks · GCS · Firestore · Firebase | [resume-metrics](https://github.com/saishchaskar/resume-metrics) |
+| **PetroConnect** | Full-stack petrol-station management platform for **Day/Night Daily Sales Reports (DSRs)**, automatic nozzle reading carry-forward, cash/UPI/credit reconciliation, tanker/dip inventory, and monthly PDF & Recharts analytics. | React 18 · TypeScript · Ant Design · Java 21 · Spring Boot 3 · PostgreSQL (JSONB) · Flyway · Docker | [petro-connect-manager](https://github.com/saishchaskar/petro-connect-manager) · [petro-connect-dashboard](https://github.com/saishchaskar/petro-connect-dashboard) |
+| **AgroConnect (Android)** | Earlier native Android implementation delivering **data.gov.in (OGD)** market prices, weather updates, and Firebase authentication. | Java · Android Studio (MVVM) · Firebase | [Shetkari](https://github.com/saishchaskar/Shetkari) |
 
 ---
+
+![saishchaskar's Streak](https://streak-stats.demolab.com/?user=saishchaskar&theme=transparent&hide_border=true&stroke=0000&background=00000000&ring=0e76a8&fire=0e76a8&currStreakLabel=0e76a8)
